@@ -2,7 +2,7 @@
 A fast way to get mouse position  
 ![benki](https://github.com/marssaljr/Benki/blob/main/readme.png?raw=true)  
 
-#### Installation & Tutorial
+## Installation & Tutorial
 ```sh
 $ sudo apt install python3-pip
 $ sudo pip3 install -r requirements.txt
