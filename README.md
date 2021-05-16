@@ -1,6 +1,6 @@
 # Benki  
 A fast way to get mouse position  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![benki](https://github.com/marssaljr/Benki/blob/main/readme.png?raw=true)  
 
 #### Installation & Tutorial
 ```sh
